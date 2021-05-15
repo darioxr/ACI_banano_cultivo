@@ -4,7 +4,7 @@ Repositorio asociado a la publicacion:
 
 ### Caracterización del microbioma de plantas de banano (*Musa × paradisiaca* L.) bajo sistemas de producción orgánico y convencional
 
-Alejandra Paladines-Montero, Claudia Zapata, Darío X. Ramirez-Villacis y Antonio León-Reyes
+Claudia G. Zapata, Alejandra Paladines-Montero, Dario X. Ramirez-Villacis y Antonio Leon-Reyes
 
 DOI
 
